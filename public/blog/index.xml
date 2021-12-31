@@ -6,6 +6,17 @@
     <description>Recent content in Blog Posts on &gt;_shanscendent</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Shan Lee</copyright><atom:link href="https://shanlee.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Shan Lee</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0800</lastBuildDate><atom:link href="https://shanlee.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Time</title>
+      <link>https://shanlee.cc/blog/01-about-time/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+      
+      <guid>https://shanlee.cc/blog/01-about-time/</guid>
+      <description>About time I got around to making a portfolio site for 2022! Guess it&amp;rsquo;s my first new year&amp;rsquo;s resolution.
+Be nice to share musings or helpful tidbits I&amp;rsquo;ve picked up along the way.</description>
+    </item>
+    
   </channel>
 </rss>

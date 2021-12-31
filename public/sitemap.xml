@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shanlee.cc/projects/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/projects/homelab/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/tags/proxmox/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/tags/</loc>
-    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/projects/web-scraping/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/tags/plex/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/tags/python/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shanlee.cc/tags/torrent/</loc>
-    <lastmod>2018-10-28T00:00:00+00:00</lastmod>
+    <loc>https://shanlee.cc/blog/01-about-time/</loc>
+    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://shanlee.cc/blog/</loc>
+    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/</loc>
+    <lastmod>2022-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/projects/</loc>
+    <lastmod>2021-12-31T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/projects/homelab/</loc>
+    <lastmod>2021-12-31T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/tags/proxmox/</loc>
+    <lastmod>2021-12-31T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/tags/</loc>
+    <lastmod>2021-12-31T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/projects/web-scraping/</loc>
+    <lastmod>2018-10-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/tags/plex/</loc>
+    <lastmod>2018-10-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/tags/python/</loc>
+    <lastmod>2018-10-28T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://shanlee.cc/tags/torrent/</loc>
+    <lastmod>2018-10-28T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://shanlee.cc/categories/</loc>
   </url><url>
