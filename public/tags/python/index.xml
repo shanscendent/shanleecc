@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on &gt;_shanscendent</title>
+    <link>https://shanlee.cc/tags/python/</link>
+    <description>Recent content in python on &gt;_shanscendent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Shan Lee</copyright>
+    <lastBuildDate>Sun, 28 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://shanlee.cc/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Show Downloader</title>
+      <link>https://shanlee.cc/projects/web-scraping/</link>
+      <pubDate>Sun, 28 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanlee.cc/projects/web-scraping/</guid>
+      <description>My mom was a fan of a Taiwanese show, but the YouTube channel got geoblocked overnight. There were two solutions:
+ Purchase a VPN Torrent the episodes  Unfortunately, Taiwanese VPNs were pretty expensive (I don&amp;rsquo;t think the major VPN companies like PIA had servers in that region). I also had to have a Raspberry Pi route internet to the smart TV as mom wanted a frictionless experience, which was a little bit outside of my skillset at the time.</description>
+    </item>
+    
+  </channel>
+</rss>
